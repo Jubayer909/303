@@ -4,7 +4,7 @@ var path = window.location.pathname;
 // Define the mapping of post URLs to sorry page URLs
 var redirectMap = {
   '/2022/01/fletro-pro-61-template-free-download.html': 'https://www.CodeStarHub.xyz/p/sorry.html?title=Fletro+Pro+6.1+Template+Free+Download&amp;reason=Outdated&amp;m=1',
-  '/2022/01/how-to-inspect-elements-in-phone.html': 'https://www.CodeStarHub.xyz/p/sorry.html?title=How+to+inspect+elements+in+phone?&amp;reason=Outdated&amp;m=1',
+  '/2022/01/how-to-inspect-elements-in-phone.html': 'https://codestore360.blogspot.com/p/sorry.html?title=How+to+inspect+elements+in+phone&reason=Outdated&=m1',
   '/2021/10/igniplex-v26-premium-blogger-template.html': 'https://www.CodeStarHub.xyz/p/sorry.html?title=Igniplex+v2.6+Premium+Blogger+Template+Free+Download&amp;reason=Outdated&amp;m=1',
   '/2021/10/tic-tac-toe-game-script-html-for.html': 'https://www.CodeStarHub.xyz/p/sorry.html?title=Tic+Tac+Toe+Game+Script+%5BHTML%5D+For+Blogger+%5BScript+1%5D&amp;reason=Outdated&amp;m=1',
   '/2021/10/url-protector-360-premium-blogger-theme.html': 'https://www.CodeStarHub.xyz/p/sorry.html?title=Url+Protector+360+Premium+Blogger+Theme+Free+Download&amp;reason=Outdated&amp;m=1',
